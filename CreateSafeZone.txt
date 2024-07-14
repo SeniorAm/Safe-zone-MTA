@@ -1,0 +1,37 @@
+English: Finding Safe Zone Coordinates in MTA (Multi Theft Auto)
+Step 1: Launch MTA and Open the Map Editor
+Start MTA
+(Multi Theft Auto: San Andreas).
+Navigate to the main menu and select "Map Editor".
+Create a new map or open an existing one where you want to define a safe zone.
+Step 2: Navigate to the Desired Location
+Use the map editor to navigate to the location where you want to create the safe zone.
+Position the camera to get a clear view of the area.
+Step 3: Place a Marker
+In the map editor, find the option to place objects or markers. This can usually be found in the object list or toolbox.
+Place a marker at the first corner of your intended safe zone.
+Write down the coordinates (X, Y, Z) of this marker. These coordinates are usually displayed in the map editor interface.
+Step 4: Define the Area
+Repeat the process to place additional markers at other corners of the safe zone. A minimum of two markers are needed to define a rectangular area, but more can be used for more complex shapes.
+Note down the coordinates of each marker.
+
+
+
+
+
+فارسی: یافتن مختصات منطقه امن در 
+مرحله ۱: راه‌اندازی MTA و باز کردن ویرایشگر نقشه
+بازی MTA
+(مالتی تفت اتو: سن آندریاس) را اجرا کنید.
+به منوی اصلی بروید و گزینه "Map Editor" را انتخاب کنید.
+یک نقشه جدید ایجاد کنید یا نقشه موجودی را باز کنید که می‌خواهید منطقه امن را در آن تعریف کنید.
+مرحله ۲: حرکت به مکان مورد نظر
+از ویرایشگر نقشه برای حرکت به مکانی که می‌خواهید منطقه امن ایجاد کنید، استفاده کنید.
+دوربین را طوری قرار دهید که نمای واضحی از منطقه داشته باشید.
+مرحله ۳: قرار دادن یک نشانگر
+در ویرایشگر نقشه، گزینه قرار دادن اشیا یا نشانگرها را پیدا کنید. این گزینه معمولاً در لیست اشیا یا جعبه ابزار یافت می‌شود.
+یک نشانگر در اولین گوشه منطقه امن مورد نظر خود قرار دهید.
+مختصات (X، Y، Z) این نشانگر را یادداشت کنید. این مختصات معمولاً در رابط کاربری ویرایشگر نقشه نمایش داده می‌شود.
+مرحله ۴: تعریف منطقه
+فرآیند قرار دادن نشانگرها در گوشه‌های دیگر منطقه امن را تکرار کنید. حداقل دو نشانگر برای تعریف یک منطقه مستطیلی لازم است، اما برای اشکال پیچیده‌تر می‌توان از نشانگرهای بیشتری استفاده کرد.
+مختصات هر نشانگر را یادداشت کنید.
