@@ -1,14 +1,13 @@
 -- safe_zone.lua
 
-
-local safeZone = { x = 1500, y = -1200, z = 13, width = 100, depth = 100, height = 50 }
+--Read HowCreateSafeZone  and you can edit your pos
+local safeZone = { x = 1000, y = 1000, z = 10, radius = 50 }
 
 -- Function to check if a player is in the safe zone
 function isPlayerInSafeZone(player)
     local px, py, pz = getElementPosition(player)
-    return (px >= safeZone.x and px <= safeZone.x + safeZone.width) and
-           (py >= safeZone.y and py <= safeZone.y + safeZone.depth) and
-           (pz >= safeZone.z and pz <= safeZone.z + safeZone.height)
+    local distance = getDistanceBetweenPoints3D(px, py, pz, safeZone.x, safeZone.y, safeZone.z)
+    return distance <= safeZone.radius
 end
 
 -- Function to prevent damage to players in the safe zone
