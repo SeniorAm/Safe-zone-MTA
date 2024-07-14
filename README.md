@@ -16,9 +16,11 @@
 <resource>
     <script src="safe_zone.lua" type="server"/>
 </resource>
-'''
+
 
 ### English
+```xml
+
 ```markdown
 # 🔒 Simple Safe Zone Script for MTA 🔒
 
