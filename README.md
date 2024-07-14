@@ -38,3 +38,9 @@ This script creates a safe zone where players cannot take damage. And it's best 
     <script src="safe_zone.lua" type="server"/>
 </resource>
 ```
+
+
+
+
+
+###Read 'How Create Pos Safe zone'
