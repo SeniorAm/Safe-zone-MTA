@@ -1,5 +1,5 @@
 -- safe_zone.lua
--- اسکریپت سیف زون ساده برای MTA
+
 
 local safeZone = { x = 1500, y = -1200, z = 13, width = 100, depth = 100, height = 50 }
 
