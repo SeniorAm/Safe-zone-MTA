@@ -24,7 +24,7 @@
 
 # 🔒 Simple Safe Zone Script for MTA 🔒
 
-This script creates a safe zone where players cannot take damage. And it's best for new players because it's possible `The new player was kicked out of the game after being killed a few times.'
+This script creates a safe zone where players cannot take damage. And it's best for new players `because it's possible The new player was kicked out of the game after being killed a few times.`
 
 ## Installation and Usage
 
