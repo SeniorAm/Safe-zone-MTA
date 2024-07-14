@@ -19,7 +19,7 @@
 ```
 
 ### English
-```xml
+
 
 ```markdown
 # 🔒 Simple Safe Zone Script for MTA 🔒
@@ -36,3 +36,4 @@ This script creates a safe zone where players cannot take damage. And it's best 
 <resource>
     <script src="safe_zone.lua" type="server"/>
 </resource>
+```
