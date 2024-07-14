@@ -1,2 +1,36 @@
 # Safe-zone-MTA
-🦾👁️You can create safe zone to protect new player 
+
+### Persion 
+# 🔒 اسکریپت سیف زون (منطقه امن) برای MTA 🔒
+
+این اسکریپت یک سیف زون ایجاد می‌کند که در آن بازیکنان نمی‌توانند آسیب ببینند. و این عمل برای بازیکنان تازه وارد بهترین کار ممکنه چون ممکن است 
+`بازیکن تازه وارد پس از چندبار کشته شدن از بازی زده شود`
+
+## نصب و استفاده
+
+1. فایل `safe_zone.lua` را دانلود کنید.
+2. فایل را در پوشه `resources` سرور MTA خود قرار دهید.
+3. به فایل `meta.xml` در پوشه منبع خود اضافه کنید:
+
+```xml
+<resource>
+    <script src="safe_zone.lua" type="server"/>
+</resource>
+'''
+
+### English
+```markdown
+# 🔒 Simple Safe Zone Script for MTA 🔒
+
+This script creates a safe zone where players cannot take damage. And it's best for new players because it's possible ``The new player was kicked out of the game after being killed a few times.''
+
+## Installation and Usage
+
+1. Download the `safe_zone.lua` file.
+2. Place the file in your MTA server's `resources` folder.
+3. Add the following to your `meta.xml` file in the resource folder:
+
+```xml
+<resource>
+    <script src="safe_zone.lua" type="server"/>
+</resource>
